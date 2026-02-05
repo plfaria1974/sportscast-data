@@ -31,7 +31,7 @@
       "location": "info not available",
       "channels": [
         {
-          "name": "Sport TV1",
+          "name": "Sport TV2",
           "type": "Subscription"
         }
       ],
@@ -47,7 +47,7 @@
       "location": "info not available",
       "channels": [
         {
-          "name": "Sport TV1",
+          "name": "Sport TV3",
           "type": "Subscription"
         }
       ],
@@ -79,7 +79,7 @@
       "location": "info not available",
       "channels": [
         {
-          "name": "Sport TV1",
+          "name": "Sport TV2",
           "type": "Subscription"
         }
       ],
@@ -95,7 +95,7 @@
       "location": "info not available",
       "channels": [
         {
-          "name": "Sport TV1",
+          "name": "Sport TV3",
           "type": "Subscription"
         }
       ],
@@ -111,7 +111,7 @@
       "location": "info not available",
       "channels": [
         {
-          "name": "Sport TV1",
+          "name": "Sport TV4",
           "type": "Subscription"
         }
       ],
@@ -143,7 +143,7 @@
       "location": "info not available",
       "channels": [
         {
-          "name": "Sport TV1",
+          "name": "Sport TV5",
           "type": "Subscription"
         }
       ],
@@ -159,7 +159,7 @@
       "location": "info not available",
       "channels": [
         {
-          "name": "SPORT TV1",
+          "name": "Sport TV1",
           "type": "Subscription"
         }
       ],
@@ -175,7 +175,7 @@
       "location": "info not available",
       "channels": [
         {
-          "name": "SPORTING TV",
+          "name": "Sporting TV",
           "type": "Subscription"
         }
       ],
@@ -191,7 +191,7 @@
       "location": "info not available",
       "channels": [
         {
-          "name": "PORTO CANAL",
+          "name": "Porto Canal",
           "type": "Subscription"
         }
       ],
@@ -211,7 +211,7 @@
           "type": "Subscription"
         },
         {
-          "name": "ELEVEN SPORTS 3",
+          "name": "Eleven Sports 3",
           "type": "Subscription"
         }
       ],
@@ -227,7 +227,7 @@
       "location": "info not available",
       "channels": [
         {
-          "name": "SPORT TV4",
+          "name": "Sport TV4",
           "type": "Subscription"
         }
       ],
@@ -243,7 +243,7 @@
       "location": "info not available",
       "channels": [
         {
-          "name": "SPORT TV2",
+          "name": "Sport TV2",
           "type": "Subscription"
         }
       ],
@@ -263,7 +263,7 @@
           "type": "Subscription"
         },
         {
-          "name": "ELEVEN SPORTS 1",
+          "name": "Eleven Sports 1",
           "type": "Subscription"
         }
       ],
@@ -283,7 +283,7 @@
           "type": "Subscription"
         },
         {
-          "name": "ELEVEN SPORTS 1",
+          "name": "Eleven Sports 1",
           "type": "Subscription"
         }
       ],
@@ -299,7 +299,7 @@
       "location": "info not available",
       "channels": [
         {
-          "name": "SPORT TV1",
+          "name": "Sport TV1",
           "type": "Subscription"
         }
       ],
@@ -315,7 +315,7 @@
       "location": "info not available",
       "channels": [
         {
-          "name": "SPORT TV1",
+          "name": "Sport TV1",
           "type": "Subscription"
         }
       ],
@@ -331,7 +331,7 @@
       "location": "info not available",
       "channels": [
         {
-          "name": "CANAL 11",
+          "name": "Canal 11",
           "type": "Subscription"
         }
       ],
@@ -351,7 +351,7 @@
           "type": "Subscription"
         },
         {
-          "name": "ELEVEN SPORTS 1",
+          "name": "Eleven Sports 1",
           "type": "Subscription"
         }
       ],
@@ -367,7 +367,7 @@
       "location": "info not available",
       "channels": [
         {
-          "name": "SPORT TV3",
+          "name": "Sport TV3",
           "type": "Subscription"
         }
       ],
@@ -387,7 +387,7 @@
           "type": "Subscription"
         },
         {
-          "name": "ELEVEN SPORTS 1",
+          "name": "Eleven Sports 1",
           "type": "Subscription"
         }
       ],
@@ -407,7 +407,7 @@
           "type": "Subscription"
         },
         {
-          "name": "ELEVEN SPORTS 2",
+          "name": "Eleven Sports 2",
           "type": "Subscription"
         }
       ],
@@ -427,7 +427,7 @@
           "type": "Subscription"
         },
         {
-          "name": "ELEVEN SPORTS 2",
+          "name": "Eleven Sports 2",
           "type": "Subscription"
         }
       ],
@@ -459,7 +459,7 @@
       "location": "info not available",
       "channels": [
         {
-          "name": "SPORT TV2",
+          "name": "Sport TV2",
           "type": "Subscription"
         }
       ],
@@ -475,7 +475,7 @@
       "location": "info not available",
       "channels": [
         {
-          "name": "SPORT TV4",
+          "name": "Sport TV4",
           "type": "Subscription"
         }
       ],
@@ -495,7 +495,7 @@
           "type": "Subscription"
         },
         {
-          "name": "ELEVEN SPORTS 3",
+          "name": "Eleven Sports 3",
           "type": "Subscription"
         }
       ],
@@ -515,7 +515,7 @@
           "type": "Subscription"
         },
         {
-          "name": "ELEVEN SPORTS 1",
+          "name": "Eleven Sports 1",
           "type": "Subscription"
         }
       ],
@@ -535,7 +535,7 @@
           "type": "Subscription"
         },
         {
-          "name": "ELEVEN SPORTS 2",
+          "name": "Eleven Sports 2",
           "type": "Subscription"
         }
       ],
@@ -551,7 +551,7 @@
       "location": "info not available",
       "channels": [
         {
-          "name": "SPORT TV3",
+          "name": "Sport TV3",
           "type": "Subscription"
         }
       ],
@@ -571,7 +571,7 @@
           "type": "Subscription"
         },
         {
-          "name": "ELEVEN SPORTS 1",
+          "name": "Eleven Sports 1",
           "type": "Subscription"
         }
       ],
@@ -587,7 +587,7 @@
       "location": "info not available",
       "channels": [
         {
-          "name": "SPORT TV5",
+          "name": "Sport TV5",
           "type": "Subscription"
         }
       ],
@@ -607,7 +607,7 @@
           "type": "Subscription"
         },
         {
-          "name": "ELEVEN SPORTS 1",
+          "name": "Eleven Sports 1",
           "type": "Subscription"
         }
       ],
@@ -623,7 +623,7 @@
       "location": "info not available",
       "channels": [
         {
-          "name": "SPORT TV3",
+          "name": "Sport TV3",
           "type": "Subscription"
         }
       ],
@@ -643,7 +643,7 @@
           "type": "Subscription"
         },
         {
-          "name": "ELEVEN SPORTS 1",
+          "name": "Eleven Sports 1",
           "type": "Subscription"
         }
       ],
