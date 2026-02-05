@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "last_update": "2026-02-05T13:00:00Z",
+    "country": "Portugal",
+    "timezone": "Europe/Lisbon"
+  },
+  "events": [
+    {
+      "id": "fb-ucl-001",
+      "sport": "Football",
+      "competition": "UEFA Champions League",
+      "eventName": "Real Madrid vs Liverpool",
+      "stage": "Round of 16 - 1st Leg",
+      "startTimeUtc": "2026-02-18T20:00:00Z",
+      "location": "Santiago Bernabéu",
+      "channels": [
+        {"name": "TVI", "type": "Free"},
+        {"name": "DAZN 1", "type": "Subscription"}
+      ]
+    },
+    {
+      "id": "f1-bhr-001",
+      "sport": "Formula 1",
+      "competition": "Bahrain Grand Prix",
+      "eventName": "Main Race",
+      "stage": "Race Day",
+      "startTimeUtc": "2026-03-02T15:00:00Z",
+      "location": "Sakhir Circuit",
+      "channels": [
+        {"name": "SportTV 5", "type": "Subscription"},
+        {"name": "F1 TV Pro", "type": "Subscription"}
+      ]
+    }
+  ]
+}
