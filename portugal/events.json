@@ -1,87 +1,165 @@
-{'metadata': {'last_update': '2026-02-05T15:30:00Z',
-  'source': 'PDFs e web',
-  'timezone': 'UTC+0'},
- 'events': [{'id': 'event_1',
-   'sport': 'football',
-   'competition': 'Taça de Portugal',
-   'eventName': 'Sporting vs AVS SAD',
-   'stage': 'Regular Season',
-   'startTimeUtc': '2026-02-05T20:45:00Z',
-   'location': 'info not available',
-   'channels': [{'name': 'SPORT TV1', 'type': 'Subscription'}],
-   'country': 'info not available'},
-  {'id': 'event_2',
-   'sport': 'football',
-   'competition': 'Liga Portugal Betclic',
-   'eventName': 'Sporting FM vs Damaiense FM',
-   'stage': 'Regular Season',
-   'startTimeUtc': '2026-02-06T17:00:00Z',
-   'location': 'info not available',
-   'channels': [{'name': 'SPORTING TV', 'type': 'Subscription'}],
-   'country': 'info not available'},
-  {'id': 'event_3',
-   'sport': 'football',
-   'competition': 'Liga Portugal Betclic',
-   'eventName': 'FC Porto B vs Ac. Viseu',
-   'stage': 'Regular Season',
-   'startTimeUtc': '2026-02-06T17:30:00Z',
-   'location': 'info not available',
-   'channels': [{'name': 'PORTO CANAL', 'type': 'Subscription'}],
-   'country': 'info not available'},
-  {'id': 'event_4',
-   'sport': 'football',
-   'competition': 'Bundesliga',
-   'eventName': 'Union Berlin vs Frankfurt',
-   'stage': 'Regular Season',
-   'startTimeUtc': '2026-02-06T18:30:00Z',
-   'location': 'info not available',
-   'channels': [{'name': 'DAZN', 'type': 'Subscription'},
-    {'name': 'ELEVEN SPORTS 3', 'type': 'Subscription'}],
-   'country': 'info not available'},
-  {'id': 'event_5',
-   'sport': 'football',
-   'competition': 'Liga Portugal Betclic',
-   'eventName': 'Moreirense vs Vizela',
-   'stage': 'Regular Season',
-   'startTimeUtc': '2026-02-06T18:45:00Z',
-   'location': 'info not available',
-   'channels': [{'name': 'SPORT TV4', 'type': 'Subscription'}],
-   'country': 'info not available'},
-  {'id': 'event_6',
-   'sport': 'football',
-   'competition': 'Serie A',
-   'eventName': 'Verona vs Monza',
-   'stage': 'Regular Season',
-   'startTimeUtc': '2026-02-06T19:00:00Z',
-   'location': 'info not available',
-   'channels': [{'name': 'SPORT TV2', 'type': 'Subscription'}],
-   'country': 'info not available'},
-  {'id': 'event_7',
-   'sport': 'football',
-   'competition': 'La Liga',
-   'eventName': 'Celta de Vigo vs Osasuna',
-   'stage': 'Regular Season',
-   'startTimeUtc': '2026-02-06T20:00:00Z',
-   'location': 'info not available',
-   'channels': [{'name': 'DAZN', 'type': 'Subscription'},
-    {'name': 'ELEVEN SPORTS 1', 'type': 'Subscription'}],
-   'country': 'info not available'},
-  {'id': 'event_8',
-   'sport': 'football',
-   'competition': 'Premier League',
-   'eventName': 'Leeds vs Nottingham Forest',
-   'stage': 'Regular Season',
-   'startTimeUtc': '2026-02-06T20:00:00Z',
-   'location': 'info not available',
-   'channels': [{'name': 'DAZN', 'type': 'Subscription'},
-    {'name': 'ELEVEN SPORTS 1', 'type': 'Subscription'}],
-   'country': 'info not available'},
-  {'id': 'event_9',
-   'sport': 'football',
-   'competition': 'Liga Portugal Betclic',
-   'eventName': 'Desp. Chaves vs Penafiel',
-   'stage': 'Regular Season',
-   'startTimeUtc': '2026-02-06T20:15:00Z',
-   'location': 'info not available',
-   'channels': [{'name': 'SPORT TV1', 'type': 'Subscription'}],
-   'country': 'info not available'}]}
+{
+  "metadata": {
+    "last_update": "2026-02-05T15:30:00Z",
+    "source": "PDFs e web",
+    "timezone": "UTC+0"
+  },
+  "events": [
+    {
+      "id": "event_1",
+      "sport": "football",
+      "competition": "Taça de Portugal",
+      "eventName": "Sporting vs AVS SAD",
+      "stage": "Regular Season",
+      "startTimeUtc": "2026-02-05T20:45:00Z",
+      "location": "info not available",
+      "channels": [
+        {
+          "name": "SPORT TV1",
+          "type": "Subscription"
+        }
+      ],
+      "country": "info not available"
+    },
+    {
+      "id": "event_2",
+      "sport": "football",
+      "competition": "Liga Portugal Betclic",
+      "eventName": "Sporting FM vs Damaiense FM",
+      "stage": "Regular Season",
+      "startTimeUtc": "2026-02-06T17:00:00Z",
+      "location": "info not available",
+      "channels": [
+        {
+          "name": "SPORTING TV",
+          "type": "Subscription"
+        }
+      ],
+      "country": "info not available"
+    },
+    {
+      "id": "event_3",
+      "sport": "football",
+      "competition": "Liga Portugal Betclic",
+      "eventName": "FC Porto B vs Ac. Viseu",
+      "stage": "Regular Season",
+      "startTimeUtc": "2026-02-06T17:30:00Z",
+      "location": "info not available",
+      "channels": [
+        {
+          "name": "PORTO CANAL",
+          "type": "Subscription"
+        }
+      ],
+      "country": "info not available"
+    },
+    {
+      "id": "event_4",
+      "sport": "football",
+      "competition": "Bundesliga",
+      "eventName": "Union Berlin vs Frankfurt",
+      "stage": "Regular Season",
+      "startTimeUtc": "2026-02-06T18:30:00Z",
+      "location": "info not available",
+      "channels": [
+        {
+          "name": "DAZN",
+          "type": "Subscription"
+        },
+        {
+          "name": "ELEVEN SPORTS 3",
+          "type": "Subscription"
+        }
+      ],
+      "country": "info not available"
+    },
+    {
+      "id": "event_5",
+      "sport": "football",
+      "competition": "Liga Portugal Betclic",
+      "eventName": "Moreirense vs Vizela",
+      "stage": "Regular Season",
+      "startTimeUtc": "2026-02-06T18:45:00Z",
+      "location": "info not available",
+      "channels": [
+        {
+          "name": "SPORT TV4",
+          "type": "Subscription"
+        }
+      ],
+      "country": "info not available"
+    },
+    {
+      "id": "event_6",
+      "sport": "football",
+      "competition": "Serie A",
+      "eventName": "Verona vs Monza",
+      "stage": "Regular Season",
+      "startTimeUtc": "2026-02-06T19:00:00Z",
+      "location": "info not available",
+      "channels": [
+        {
+          "name": "SPORT TV2",
+          "type": "Subscription"
+        }
+      ],
+      "country": "info not available"
+    },
+    {
+      "id": "event_7",
+      "sport": "football",
+      "competition": "La Liga",
+      "eventName": "Celta de Vigo vs Osasuna",
+      "stage": "Regular Season",
+      "startTimeUtc": "2026-02-06T20:00:00Z",
+      "location": "info not available",
+      "channels": [
+        {
+          "name": "DAZN",
+          "type": "Subscription"
+        },
+        {
+          "name": "ELEVEN SPORTS 1",
+          "type": "Subscription"
+        }
+      ],
+      "country": "info not available"
+    },
+    {
+      "id": "event_8",
+      "sport": "football",
+      "competition": "Premier League",
+      "eventName": "Leeds vs Nottingham Forest",
+      "stage": "Regular Season",
+      "startTimeUtc": "2026-02-06T20:00:00Z",
+      "location": "info not available",
+      "channels": [
+        {
+          "name": "DAZN",
+          "type": "Subscription"
+        },
+        {
+          "name": "ELEVEN SPORTS 1",
+          "type": "Subscription"
+        }
+      ],
+      "country": "info not available"
+    },
+    {
+      "id": "event_9",
+      "sport": "football",
+      "competition": "Liga Portugal Betclic",
+      "eventName": "Desp. Chaves vs Penafiel",
+      "stage": "Regular Season",
+      "startTimeUtc": "2026-02-06T20:15:00Z",
+      "location": "info not available",
+      "channels": [
+        {
+          "name": "SPORT TV1",
+          "type": "Subscription"
+        }
+      ],
+      "country": "info not available"
+    }
+  ]
+}
