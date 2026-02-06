@@ -1,0 +1,45 @@
+{
+  "sports": [
+    "Football",
+  ],
+  "events": [
+    "Liga Betclic",
+    "Taça de Portugal"
+  ],
+  "national_teams": [
+    "Portugal",
+    "England",
+    "Brazil",
+    "France",
+    "Spain"
+  ],
+  "teams": [
+    "AVS",
+    "Nacional",
+    "Santa Clara",
+    "Tondela",
+    "Estrela da Amadora",
+    "Casa Pia",
+    "Alverca",
+    "Arouca",
+    "Famalicão",
+    "Porto",
+    "Estoril Praia",
+    "Gil Vicente",
+    "Moreirense",
+    "Rio Ave",
+    "Braga",
+    "Benfica",
+    "Sporting",
+    "Vitória SC",
+    "Torreense",
+    "Fafe"
+  ],
+  "athletes": [
+    "Novak Djokovic",
+    "Tiger Woods",
+    "Cristiano Ronaldo",
+    "Lewis Hamilton",
+    "Rafael Nadal"
+  ]
+}
