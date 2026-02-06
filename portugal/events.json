@@ -1,656 +1,1088 @@
 {
   "metadata": {
-    "last_update": "2026-02-05T19:15:00Z",
-    "source": "PDFs e Screenshots fornecidos",
+    "last_update": "2026-02-06T21:44:49.095Z",
+    "source": "Google Sheets SportsCast",
     "timezone": "UTC+0"
   },
   "events": [
     {
-      "id": "event_10",
       "sport": "football",
-      "competition": "Taça de Portugal",
-      "eventName": "Sporting vs AVS SAD",
-      "stage": "Regular Season",
+      "competition": "Liga Betclic",
+      "eventName": "Benfica vs. Estrela da Amadora",
+      "stage": "Jornada 21",
       "startTimeUtc": "2026-02-05T17:30:00Z",
-      "location": "Unknown",
+      "location": "Estádio da Luz",
       "channels": [
         {
-          "name": "Sport TV1",
+          "name": "BTV",
           "type": "Subscription"
         }
       ],
+      "id": "event_0_1770312600000",
       "country": "Portugal"
     },
     {
-      "id": "event_1",
       "sport": "football",
-      "competition": "Serie A",
-      "eventName": "Atalanta vs Juventus",
-      "stage": "Regular Season",
-      "startTimeUtc": "2026-02-05T20:00:00Z",
-      "location": "Unknown",
-      "channels": [
-        {
-          "name": "Sport TV1",
-          "type": "Subscription"
-        }
-      ],
-      "country": "Italy"
-    },
-    {
-      "id": "event_2",
-      "sport": "football",
-      "competition": "La Liga",
-      "eventName": "Betis vs Atlético Madrid",
-      "stage": "Regular Season",
-      "startTimeUtc": "2026-02-05T20:00:00Z",
-      "location": "Unknown",
-      "channels": [
-        {
-          "name": "Sport TV2",
-          "type": "Subscription"
-        }
-      ],
-      "country": "Spain"
-    },
-    {
-      "id": "event_3",
-      "sport": "football",
-      "competition": "Taça de Portugal",
-      "eventName": "Sporting vs AFS",
-      "stage": "Regular Season",
-      "startTimeUtc": "2026-02-05T20:00:00Z",
-      "location": "Unknown",
-      "channels": [
-        {
-          "name": "Sport TV3",
-          "type": "Subscription"
-        }
-      ],
-      "country": "Portugal"
-    },
-    {
-      "id": "event_4",
-      "sport": "football",
-      "competition": "Premier League",
-      "eventName": "Man United vs Tottenham",
-      "stage": "Regular Season",
-      "startTimeUtc": "2026-02-06T12:30:00Z",
-      "location": "Unknown",
-      "channels": [
-        {
-          "name": "Sport TV1",
-          "type": "Subscription"
-        }
-      ],
-      "country": "England"
-    },
-    {
-      "id": "event_11",
-      "sport": "football",
-      "competition": "Liga Portugal Betclic",
-      "eventName": "Sporting FM vs Damaiense FM",
-      "stage": "Regular Season",
-      "startTimeUtc": "2026-02-06T17:00:00Z",
-      "location": "Unknown",
-      "channels": [
-        {
-          "name": "Sporting TV",
-          "type": "Subscription"
-        }
-      ],
-      "country": "Portugal"
-    },
-    {
-      "id": "event_12",
-      "sport": "football",
-      "competition": "Liga Portugal Betclic",
-      "eventName": "FC Porto B vs Ac. Viseu",
-      "stage": "Regular Season",
-      "startTimeUtc": "2026-02-06T17:30:00Z",
-      "location": "Unknown",
-      "channels": [
-        {
-          "name": "Porto Canal",
-          "type": "Subscription"
-        }
-      ],
-      "country": "Portugal"
-    },
-    {
-      "id": "event_13",
-      "sport": "football",
-      "competition": "Bundesliga",
-      "eventName": "Union Berlin vs Frankfurt",
-      "stage": "Regular Season",
-      "startTimeUtc": "2026-02-06T18:30:00Z",
-      "location": "Unknown",
-      "channels": [
-        {
-          "name": "Eleven Sports 3",
-          "type": "Subscription"
-        },
-        {
-          "name": "DAZN",
-          "type": "Subscription"
-        }
-      ],
-      "country": "Germany"
-    },
-    {
-      "id": "event_14",
-      "sport": "football",
-      "competition": "Liga Portugal Betclic",
-      "eventName": "Moreirense vs Vizela",
-      "stage": "Regular Season",
-      "startTimeUtc": "2026-02-06T18:45:00Z",
-      "location": "Unknown",
-      "channels": [
-        {
-          "name": "Sport TV4",
-          "type": "Subscription"
-        }
-      ],
-      "country": "Portugal"
-    },
-    {
-      "id": "event_15",
-      "sport": "football",
-      "competition": "Serie A",
-      "eventName": "Verona vs Monza",
-      "stage": "Regular Season",
-      "startTimeUtc": "2026-02-06T19:00:00Z",
-      "location": "Unknown",
-      "channels": [
-        {
-          "name": "Sport TV2",
-          "type": "Subscription"
-        }
-      ],
-      "country": "Italy"
-    },
-    {
-      "id": "event_16",
-      "sport": "football",
-      "competition": "La Liga",
-      "eventName": "Celta de Vigo vs Osasuna",
-      "stage": "Regular Season",
+      "competition": "Liga Betclic",
+      "eventName": "Porto vs. Casa Pia",
+      "stage": "Jornada 21",
       "startTimeUtc": "2026-02-06T20:00:00Z",
-      "location": "Unknown",
+      "location": "Estádio do Dragão",
       "channels": [
         {
-          "name": "Eleven Sports 1",
-          "type": "Subscription"
-        },
-        {
-          "name": "DAZN",
+          "name": "Sport TV",
           "type": "Subscription"
         }
       ],
-      "country": "Spain"
-    },
-    {
-      "id": "event_17",
-      "sport": "football",
-      "competition": "Premier League",
-      "eventName": "Leeds vs Nottingham Forest",
-      "stage": "Regular Season",
-      "startTimeUtc": "2026-02-06T20:00:00Z",
-      "location": "Unknown",
-      "channels": [
-        {
-          "name": "Eleven Sports 2",
-          "type": "Subscription"
-        },
-        {
-          "name": "DAZN App",
-          "type": "Subscription"
-        }
-      ],
-      "country": "England"
-    },
-    {
-      "id": "event_18",
-      "sport": "football",
-      "competition": "Liga Portugal Betclic",
-      "eventName": "Desp. Chaves vs Penafiel",
-      "stage": "Regular Season",
-      "startTimeUtc": "2026-02-06T20:15:00Z",
-      "location": "Unknown",
-      "channels": [
-        {
-          "name": "Sport TV1",
-          "type": "Subscription"
-        }
-      ],
+      "id": "event_1_1770408000000",
       "country": "Portugal"
     },
     {
-      "id": "event_19",
       "sport": "football",
-      "competition": "Liga Portugal Betclic",
-      "eventName": "Loures vs FC Felgueiras",
-      "stage": "Regular Season",
-      "startTimeUtc": "2026-02-07T11:00:00Z",
-      "location": "Unknown",
+      "competition": "Liga Betclic",
+      "eventName": "Moreirense vs. Gil Vicente",
+      "stage": "Jornada 21",
+      "startTimeUtc": "2026-02-07T17:00:00Z",
+      "location": "Parque Desportivo Comendador Joaquim de Almeida Freitas",
       "channels": [
         {
-          "name": "Sport TV1",
-          "type": "Subscription"
-        }
-      ],
-      "country": "Portugal"
-    },
-    {
-      "id": "event_20",
-      "sport": "football",
-      "competition": "Liga Portugal Betclic",
-      "eventName": "Benfica B vs Dynamo Dresden",
-      "stage": "Regular Season",
-      "startTimeUtc": "2026-02-07T11:00:00Z",
-      "location": "Unknown",
-      "channels": [
-        {
-          "name": "Canal 11",
-          "type": "Subscription"
-        }
-      ],
-      "country": "Portugal"
-    },
-    {
-      "id": "event_21",
-      "sport": "football",
-      "competition": "La Liga",
-      "eventName": "Rayo Vallecano vs Oviedo",
-      "stage": "Regular Season",
-      "startTimeUtc": "2026-02-07T13:00:00Z",
-      "location": "Unknown",
-      "channels": [
-        {
-          "name": "Eleven Sports 1",
-          "type": "Subscription"
+          "name": "TVI",
+          "type": "Free"
         },
         {
-          "name": "DAZN",
-          "type": "Subscription"
-        }
-      ],
-      "country": "Spain"
-    },
-    {
-      "id": "event_22",
-      "sport": "football",
-      "competition": "Liga Portugal Betclic",
-      "eventName": "V. Guimarães vs Boavista",
-      "stage": "Regular Season",
-      "startTimeUtc": "2026-02-07T13:00:00Z",
-      "location": "Unknown",
-      "channels": [
-        {
-          "name": "Sport TV3",
-          "type": "Subscription"
-        }
-      ],
-      "country": "Portugal"
-    },
-    {
-      "id": "event_23",
-      "sport": "football",
-      "competition": "Premier League",
-      "eventName": "Arsenal vs Sunderland",
-      "stage": "Regular Season",
-      "startTimeUtc": "2026-02-07T15:00:00Z",
-      "location": "Unknown",
-      "channels": [
-        {
-          "name": "Eleven Sports 1",
-          "type": "Subscription"
-        },
-        {
-          "name": "DAZN",
-          "type": "Subscription"
-        }
-      ],
-      "country": "England"
-    },
-    {
-      "id": "event_24",
-      "sport": "football",
-      "competition": "Premier League",
-      "eventName": "Wolves vs Chelsea",
-      "stage": "Regular Season",
-      "startTimeUtc": "2026-02-07T15:00:00Z",
-      "location": "Unknown",
-      "channels": [
-        {
-          "name": "Eleven Sports 2",
-          "type": "Subscription"
-        },
-        {
-          "name": "DAZN",
-          "type": "Subscription"
-        }
-      ],
-      "country": "England"
-    },
-    {
-      "id": "event_25",
-      "sport": "football",
-      "competition": "La Liga",
-      "eventName": "Barcelona vs Mallorca",
-      "stage": "Regular Season",
-      "startTimeUtc": "2026-02-07T15:15:00Z",
-      "location": "Unknown",
-      "channels": [
-        {
-          "name": "Eleven Sports 3",
-          "type": "Subscription"
-        },
-        {
-          "name": "DAZN",
-          "type": "Subscription"
-        }
-      ],
-      "country": "Spain"
-    },
-    {
-      "id": "event_26",
-      "sport": "football",
-      "competition": "Taça da Liga",
-      "eventName": "Moreirense vs Gil Vicente",
-      "stage": "Regular Season",
-      "startTimeUtc": "2026-02-07T16:00:00Z",
-      "location": "Unknown",
-      "channels": [
-        {
-          "name": "RTP",
+          "name": "V+",
           "type": "Free"
         }
       ],
+      "id": "event_2_1770483600000",
       "country": "Portugal"
     },
     {
-      "id": "event_27",
       "sport": "football",
-      "competition": "Liga Portugal Betclic",
-      "eventName": "Olhanense vs Vizela",
-      "stage": "Regular Season",
-      "startTimeUtc": "2026-02-07T16:00:00Z",
-      "location": "Unknown",
-      "channels": [
-        {
-          "name": "Sport TV2",
-          "type": "Subscription"
-        }
-      ],
-      "country": "Portugal"
-    },
-    {
-      "id": "event_28",
-      "sport": "football",
-      "competition": "Serie A",
-      "eventName": "Genk vs Napoli",
-      "stage": "Regular Season",
-      "startTimeUtc": "2026-02-07T17:00:00Z",
-      "location": "Unknown",
-      "channels": [
-        {
-          "name": "Sport TV4",
-          "type": "Subscription"
-        }
-      ],
-      "country": "Italy"
-    },
-    {
-      "id": "event_29",
-      "sport": "football",
-      "competition": "Bundesliga",
-      "eventName": "Mönchengladbach vs Leverkusen",
-      "stage": "Regular Season",
-      "startTimeUtc": "2026-02-07T17:00:00Z",
-      "location": "Unknown",
-      "channels": [
-        {
-          "name": "Eleven Sports 4",
-          "type": "Subscription"
-        },
-        {
-          "name": "DAZN",
-          "type": "Subscription"
-        }
-      ],
-      "country": "Germany"
-    },
-    {
-      "id": "event_5",
-      "sport": "football",
-      "competition": "Liga das Nações",
-      "eventName": "Portugal vs Espanha",
-      "stage": "Regular Season",
-      "startTimeUtc": "2026-02-07T18:00:00Z",
-      "location": "Unknown",
-      "channels": [
-        {
-          "name": "Sport TV1",
-          "type": "Subscription"
-        }
-      ],
-      "country": "International"
-    },
-    {
-      "id": "event_30",
-      "sport": "football",
-      "competition": "Premier League",
-      "eventName": "Newcastle vs Brentford",
-      "stage": "Regular Season",
-      "startTimeUtc": "2026-02-07T17:30:00Z",
-      "location": "Unknown",
-      "channels": [
-        {
-          "name": "Eleven Sports 1",
-          "type": "Subscription"
-        },
-        {
-          "name": "DAZN",
-          "type": "Subscription"
-        }
-      ],
-      "country": "England"
-    },
-    {
-      "id": "event_31",
-      "sport": "football",
-      "competition": "La Liga",
-      "eventName": "Sevilha vs Girona",
-      "stage": "Regular Season",
-      "startTimeUtc": "2026-02-07T17:30:00Z",
-      "location": "Unknown",
-      "channels": [
-        {
-          "name": "Eleven Sports 2",
-          "type": "Subscription"
-        },
-        {
-          "name": "DAZN",
-          "type": "Subscription"
-        }
-      ],
-      "country": "Spain"
-    },
-    {
-      "id": "event_32",
-      "sport": "football",
-      "competition": "Ligue 1",
-      "eventName": "Stade Brest vs Lorient",
-      "stage": "Regular Season",
-      "startTimeUtc": "2026-02-07T18:30:00Z",
-      "location": "Unknown",
-      "channels": [
-        {
-          "name": "Sport TV3",
-          "type": "Subscription"
-        }
-      ],
-      "country": "France"
-    },
-    {
-      "id": "event_33",
-      "sport": "football",
-      "competition": "Bundesliga",
-      "eventName": "SV Darmstadt 98 vs Kaiserslautern",
-      "stage": "Regular Season",
-      "startTimeUtc": "2026-02-07T19:00:00Z",
-      "location": "Unknown",
-      "channels": [
-        {
-          "name": "Eleven Sports 3",
-          "type": "Subscription"
-        },
-        {
-          "name": "DAZN",
-          "type": "Subscription"
-        }
-      ],
-      "country": "Germany"
-    },
-    {
-      "id": "event_34",
-      "sport": "football",
-      "competition": "Liga Portugal Betclic",
-      "eventName": "Feirense vs Torino",
-      "stage": "Regular Season",
-      "startTimeUtc": "2026-02-07T19:45:00Z",
-      "location": "Unknown",
-      "channels": [
-        {
-          "name": "Sport TV5",
-          "type": "Subscription"
-        }
-      ],
-      "country": "Portugal"
-    },
-    {
-      "id": "event_35",
-      "sport": "football",
-      "competition": "La Liga",
-      "eventName": "Cádiz vs Almería",
-      "stage": "Regular Season",
+      "competition": "Liga Betclic",
+      "eventName": "Braga vs. Marítimo",
+      "stage": "Jornada 21",
       "startTimeUtc": "2026-02-07T20:00:00Z",
-      "location": "Unknown",
+      "location": "Estádio Municipal de Braga",
       "channels": [
         {
-          "name": "Eleven Sports 1",
-          "type": "Subscription"
-        },
-        {
-          "name": "DAZN",
+          "name": "Sport TV",
           "type": "Subscription"
         }
       ],
-      "country": "Spain"
-    },
-    {
-      "id": "event_36",
-      "sport": "football",
-      "competition": "Ligue 1",
-      "eventName": "Real Sociedad vs Lyon",
-      "stage": "Regular Season",
-      "startTimeUtc": "2026-02-07T20:00:00Z",
-      "location": "Unknown",
-      "channels": [
-        {
-          "name": "Sport TV3",
-          "type": "Subscription"
-        }
-      ],
-      "country": "France"
-    },
-    {
-      "id": "event_37",
-      "sport": "football",
-      "competition": "Ligue 1",
-      "eventName": "Nantes vs V. Guimarães",
-      "stage": "Regular Season",
-      "startTimeUtc": "2026-02-07T20:00:00Z",
-      "location": "Unknown",
-      "channels": [
-        {
-          "name": "Eleven Sports 2",
-          "type": "Subscription"
-        },
-        {
-          "name": "DAZN",
-          "type": "Subscription"
-        }
-      ],
-      "country": "France"
-    },
-    {
-      "id": "event_6",
-      "sport": "football",
-      "competition": "Liga Portugal Betclic",
-      "eventName": "Sp. Braga vs Rio Ave",
-      "stage": "Regular Season",
-      "startTimeUtc": "2026-02-08T18:00:00Z",
-      "location": "Unknown",
-      "channels": [
-        {
-          "name": "Sport TV1",
-          "type": "Subscription"
-        }
-      ],
+      "id": "event_3_1770494400000",
       "country": "Portugal"
     },
     {
-      "id": "event_7",
       "sport": "football",
-      "competition": "La Liga",
-      "eventName": "Valência vs Real Madrid",
-      "stage": "Regular Season",
+      "competition": "Liga Betclic",
+      "eventName": "Estrela da Amadora vs. Sporting",
+      "stage": "Jornada 21",
+      "startTimeUtc": "2026-02-08T17:00:00Z",
+      "location": "Estádio José Gomes",
+      "channels": [
+        {
+          "name": "Sport TV",
+          "type": "Subscription"
+        }
+      ],
+      "id": "event_4_1770570000000",
+      "country": "Portugal"
+    },
+    {
+      "sport": "football",
+      "competition": "Liga Betclic",
+      "eventName": "Portimonense vs. Vitória SC",
+      "stage": "Jornada 21",
       "startTimeUtc": "2026-02-08T20:00:00Z",
-      "location": "Unknown",
+      "location": "Estádio Municipal de Portimão",
       "channels": [
         {
-          "name": "Eleven Sports 1",
-          "type": "Subscription"
-        },
-        {
-          "name": "DAZN",
+          "name": "Sport TV",
           "type": "Subscription"
         }
       ],
-      "country": "Spain"
-    },
-    {
-      "id": "event_8",
-      "sport": "football",
-      "competition": "Liga Portugal Betclic",
-      "eventName": "Benfica vs FC Arouca",
-      "stage": "Regular Season",
-      "startTimeUtc": "2026-02-08T20:00:00Z",
-      "location": "Unknown",
-      "channels": [
-        {
-          "name": "Benfica TV",
-          "type": "Subscription"
-        }
-      ],
+      "id": "event_5_1770580800000",
       "country": "Portugal"
     },
     {
-      "id": "event_9",
       "sport": "football",
-      "competition": "Liga Portugal Betclic",
-      "eventName": "FC Porto vs Sporting",
-      "stage": "Regular Season",
-      "startTimeUtc": "2026-02-09T20:45:00Z",
-      "location": "Unknown",
+      "competition": "Liga Betclic",
+      "eventName": "Benfica vs. Casa Pia",
+      "stage": "Jornada 22",
+      "startTimeUtc": "2026-02-12T17:30:00Z",
+      "location": "Estádio da Luz",
       "channels": [
         {
-          "name": "Sport TV1",
+          "name": "BTV",
           "type": "Subscription"
         }
       ],
+      "id": "event_6_1770917400000",
+      "country": "Portugal"
+    },
+    {
+      "sport": "football",
+      "competition": "Liga Betclic",
+      "eventName": "Porto vs. Moreirense",
+      "stage": "Jornada 22",
+      "startTimeUtc": "2026-02-13T20:00:00Z",
+      "location": "Estádio do Dragão",
+      "channels": [
+        {
+          "name": "Sport TV",
+          "type": "Subscription"
+        }
+      ],
+      "id": "event_7_1771012800000",
+      "country": "Portugal"
+    },
+    {
+      "sport": "football",
+      "competition": "Liga Betclic",
+      "eventName": "Gil Vicente vs. Estrela da Amadora",
+      "stage": "Jornada 22",
+      "startTimeUtc": "2026-02-14T17:00:00Z",
+      "location": "Estádio Cidade de Barcelos",
+      "channels": [
+        {
+          "name": "Sport TV",
+          "type": "Subscription"
+        }
+      ],
+      "id": "event_8_1771088400000",
+      "country": "Portugal"
+    },
+    {
+      "sport": "football",
+      "competition": "Liga Betclic",
+      "eventName": "Marítimo vs. Portimonense",
+      "stage": "Jornada 22",
+      "startTimeUtc": "2026-02-14T20:00:00Z",
+      "location": "Estádio dos Barreiros",
+      "channels": [
+        {
+          "name": "Sport TV",
+          "type": "Subscription"
+        }
+      ],
+      "id": "event_9_1771099200000",
+      "country": "Portugal"
+    },
+    {
+      "sport": "football",
+      "competition": "Liga Betclic",
+      "eventName": "Sporting vs. Braga",
+      "stage": "Jornada 22",
+      "startTimeUtc": "2026-02-15T17:00:00Z",
+      "location": "Estádio José Alvalade",
+      "channels": [
+        {
+          "name": "Sport TV",
+          "type": "Subscription"
+        }
+      ],
+      "id": "event_10_1771174800000",
+      "country": "Portugal"
+    },
+    {
+      "sport": "football",
+      "competition": "Liga Betclic",
+      "eventName": "Vitória SC vs. Benfica",
+      "stage": "Jornada 22",
+      "startTimeUtc": "2026-02-15T20:00:00Z",
+      "location": "Estádio D. Afonso Henriques",
+      "channels": [
+        {
+          "name": "Sport TV",
+          "type": "Subscription"
+        }
+      ],
+      "id": "event_11_1771185600000",
+      "country": "Portugal"
+    },
+    {
+      "sport": "football",
+      "competition": "Liga Betclic",
+      "eventName": "Estrela da Amadora vs. Porto",
+      "stage": "Jornada 23",
+      "startTimeUtc": "2026-02-19T17:00:00Z",
+      "location": "Estádio José Gomes",
+      "channels": [
+        {
+          "name": "Sport TV",
+          "type": "Subscription"
+        }
+      ],
+      "id": "event_12_1771520400000",
+      "country": "Portugal"
+    },
+    {
+      "sport": "football",
+      "competition": "Liga Betclic",
+      "eventName": "Casa Pia vs. Sporting",
+      "stage": "Jornada 23",
+      "startTimeUtc": "2026-02-20T20:00:00Z",
+      "location": "Estádio Dr. Magalhães Pessoa",
+      "channels": [
+        {
+          "name": "Sport TV",
+          "type": "Subscription"
+        }
+      ],
+      "id": "event_13_1771617600000",
+      "country": "Portugal"
+    },
+    {
+      "sport": "football",
+      "competition": "Liga Betclic",
+      "eventName": "Moreirense vs. Braga",
+      "stage": "Jornada 23",
+      "startTimeUtc": "2026-02-21T17:00:00Z",
+      "location": "Parque Desportivo Comendador Joaquim de Almeida Freitas",
+      "channels": [
+        {
+          "name": "TVI",
+          "type": "Free"
+        },
+        {
+          "name": "V+",
+          "type": "Free"
+        }
+      ],
+      "id": "event_14_1771693200000",
+      "country": "Portugal"
+    },
+    {
+      "sport": "football",
+      "competition": "Liga Betclic",
+      "eventName": "Marítimo vs. Vitória SC",
+      "stage": "Jornada 23",
+      "startTimeUtc": "2026-02-21T20:00:00Z",
+      "location": "Estádio dos Barreiros",
+      "channels": [
+        {
+          "name": "Sport TV",
+          "type": "Subscription"
+        }
+      ],
+      "id": "event_15_1771704000000",
+      "country": "Portugal"
+    },
+    {
+      "sport": "football",
+      "competition": "Liga Betclic",
+      "eventName": "Portimonense vs. Benfica",
+      "stage": "Jornada 23",
+      "startTimeUtc": "2026-02-22T17:00:00Z",
+      "location": "Estádio Municipal de Portimão",
+      "channels": [
+        {
+          "name": "Sport TV",
+          "type": "Subscription"
+        }
+      ],
+      "id": "event_16_1771779600000",
+      "country": "Portugal"
+    },
+    {
+      "sport": "football",
+      "competition": "Liga Betclic",
+      "eventName": "Sporting vs. Casa Pia",
+      "stage": "Jornada 23",
+      "startTimeUtc": "2026-02-22T20:00:00Z",
+      "location": "Estádio José Alvalade",
+      "channels": [
+        {
+          "name": "Sport TV",
+          "type": "Subscription"
+        }
+      ],
+      "id": "event_17_1771790400000",
+      "country": "Portugal"
+    },
+    {
+      "sport": "football",
+      "competition": "Liga Betclic",
+      "eventName": "Braga vs. Porto",
+      "stage": "Jornada 24",
+      "startTimeUtc": "2026-02-26T17:00:00Z",
+      "location": "Estádio Municipal de Braga",
+      "channels": [
+        {
+          "name": "Sport TV",
+          "type": "Subscription"
+        }
+      ],
+      "id": "event_18_1772125200000",
+      "country": "Portugal"
+    },
+    {
+      "sport": "football",
+      "competition": "Liga Betclic",
+      "eventName": "Estrela da Amadora vs. Moreirense",
+      "stage": "Jornada 24",
+      "startTimeUtc": "2026-02-27T20:00:00Z",
+      "location": "Estádio José Gomes",
+      "channels": [
+        {
+          "name": "Sport TV",
+          "type": "Subscription"
+        }
+      ],
+      "id": "event_19_1772222400000",
+      "country": "Portugal"
+    },
+    {
+      "sport": "football",
+      "competition": "Liga Betclic",
+      "eventName": "Casa Pia vs. Marítimo",
+      "stage": "Jornada 24",
+      "startTimeUtc": "2026-02-28T17:00:00Z",
+      "location": "Estádio Dr. Magalhães Pessoa",
+      "channels": [
+        {
+          "name": "Sport TV",
+          "type": "Subscription"
+        }
+      ],
+      "id": "event_20_1772298000000",
+      "country": "Portugal"
+    },
+    {
+      "sport": "football",
+      "competition": "Liga Betclic",
+      "eventName": "Vitória SC vs. Sporting",
+      "stage": "Jornada 24",
+      "startTimeUtc": "2026-02-28T20:00:00Z",
+      "location": "Estádio D. Afonso Henriques",
+      "channels": [
+        {
+          "name": "Sport TV",
+          "type": "Subscription"
+        }
+      ],
+      "id": "event_21_1772308800000",
+      "country": "Portugal"
+    },
+    {
+      "sport": "football",
+      "competition": "Taça de Portugal",
+      "eventName": "Sporting vs Porto",
+      "stage": "Meia-Final 02",
+      "startTimeUtc": "2026-03-03T20:45:00Z",
+      "location": "Estádio José Alvalade",
+      "channels": [
+        {
+          "name": "RTP1",
+          "type": "Free"
+        },
+        {
+          "name": "Sport TV",
+          "type": "Subscription"
+        }
+      ],
+      "id": "event_22_1772570700000",
+      "country": "Portugal"
+    },
+    {
+      "sport": "football",
+      "competition": "Liga Betclic",
+      "eventName": "Benfica vs. Porto",
+      "stage": "Jornada 25",
+      "startTimeUtc": "2026-03-05T17:30:00Z",
+      "location": "Estádio da Luz",
+      "channels": [
+        {
+          "name": "BTV",
+          "type": "Subscription"
+        }
+      ],
+      "id": "event_23_1772731800000",
+      "country": "Portugal"
+    },
+    {
+      "sport": "football",
+      "competition": "Liga Betclic",
+      "eventName": "Moreirense vs. Casa Pia",
+      "stage": "Jornada 25",
+      "startTimeUtc": "2026-03-06T20:00:00Z",
+      "location": "Parque Desportivo Comendador Joaquim de Almeida Freitas",
+      "channels": [
+        {
+          "name": "TVI",
+          "type": "Free"
+        },
+        {
+          "name": "V+",
+          "type": "Free"
+        }
+      ],
+      "id": "event_24_1772827200000",
+      "country": "Portugal"
+    },
+    {
+      "sport": "football",
+      "competition": "Liga Betclic",
+      "eventName": "Braga vs. Estrela da Amadora",
+      "stage": "Jornada 25",
+      "startTimeUtc": "2026-03-07T17:00:00Z",
+      "location": "Estádio Municipal de Braga",
+      "channels": [
+        {
+          "name": "Sport TV",
+          "type": "Subscription"
+        }
+      ],
+      "id": "event_25_1772902800000",
+      "country": "Portugal"
+    },
+    {
+      "sport": "football",
+      "competition": "Liga Betclic",
+      "eventName": "Marítimo vs. Sporting",
+      "stage": "Jornada 25",
+      "startTimeUtc": "2026-03-07T20:00:00Z",
+      "location": "Estádio dos Barreiros",
+      "channels": [
+        {
+          "name": "Sport TV",
+          "type": "Subscription"
+        }
+      ],
+      "id": "event_26_1772913600000",
+      "country": "Portugal"
+    },
+    {
+      "sport": "football",
+      "competition": "Liga Betclic",
+      "eventName": "Portimonense vs. Gil Vicente",
+      "stage": "Jornada 25",
+      "startTimeUtc": "2026-03-08T17:00:00Z",
+      "location": "Estádio Municipal de Portimão",
+      "channels": [
+        {
+          "name": "Sport TV",
+          "type": "Subscription"
+        }
+      ],
+      "id": "event_27_1772989200000",
+      "country": "Portugal"
+    },
+    {
+      "sport": "football",
+      "competition": "Liga Betclic",
+      "eventName": "Porto vs. Vitória SC",
+      "stage": "Jornada 25",
+      "startTimeUtc": "2026-03-08T20:00:00Z",
+      "location": "Estádio do Dragão",
+      "channels": [
+        {
+          "name": "Sport TV",
+          "type": "Subscription"
+        }
+      ],
+      "id": "event_28_1773000000000",
+      "country": "Portugal"
+    },
+    {
+      "sport": "football",
+      "competition": "Liga Betclic",
+      "eventName": "Casa Pia vs. Benfica",
+      "stage": "Jornada 26",
+      "startTimeUtc": "2026-03-12T17:00:00Z",
+      "location": "Estádio Dr. Magalhães Pessoa",
+      "channels": [
+        {
+          "name": "Sport TV",
+          "type": "Subscription"
+        }
+      ],
+      "id": "event_29_1773334800000",
+      "country": "Portugal"
+    },
+    {
+      "sport": "football",
+      "competition": "Liga Betclic",
+      "eventName": "Estrela da Amadora vs. Braga",
+      "stage": "Jornada 26",
+      "startTimeUtc": "2026-03-13T20:00:00Z",
+      "location": "Estádio José Gomes",
+      "channels": [
+        {
+          "name": "Sport TV",
+          "type": "Subscription"
+        }
+      ],
+      "id": "event_30_1773432000000",
+      "country": "Portugal"
+    },
+    {
+      "sport": "football",
+      "competition": "Liga Betclic",
+      "eventName": "Sporting vs. Moreirense",
+      "stage": "Jornada 26",
+      "startTimeUtc": "2026-03-14T17:00:00Z",
+      "location": "Estádio José Alvalade",
+      "channels": [
+        {
+          "name": "Sport TV",
+          "type": "Subscription"
+        }
+      ],
+      "id": "event_31_1773507600000",
+      "country": "Portugal"
+    },
+    {
+      "sport": "football",
+      "competition": "Liga Betclic",
+      "eventName": "Gil Vicente vs. Portimonense",
+      "stage": "Jornada 26",
+      "startTimeUtc": "2026-03-14T20:00:00Z",
+      "location": "Estádio Cidade de Barcelos",
+      "channels": [
+        {
+          "name": "Sport TV",
+          "type": "Subscription"
+        }
+      ],
+      "id": "event_32_1773518400000",
+      "country": "Portugal"
+    },
+    {
+      "sport": "football",
+      "competition": "Liga Betclic",
+      "eventName": "Vitória SC vs. Casa Pia",
+      "stage": "Jornada 26",
+      "startTimeUtc": "2026-03-15T17:00:00Z",
+      "location": "Estádio D. Afonso Henriques",
+      "channels": [
+        {
+          "name": "Sport TV",
+          "type": "Subscription"
+        }
+      ],
+      "id": "event_33_1773594000000",
+      "country": "Portugal"
+    },
+    {
+      "sport": "football",
+      "competition": "Liga Betclic",
+      "eventName": "Porto vs. Marítimo",
+      "stage": "Jornada 27",
+      "startTimeUtc": "2026-03-19T17:00:00Z",
+      "location": "Estádio do Dragão",
+      "channels": [
+        {
+          "name": "Sport TV",
+          "type": "Subscription"
+        }
+      ],
+      "id": "event_34_1773939600000",
+      "country": "Portugal"
+    },
+    {
+      "sport": "football",
+      "competition": "Liga Betclic",
+      "eventName": "Braga vs. Sporting",
+      "stage": "Jornada 27",
+      "startTimeUtc": "2026-03-20T20:00:00Z",
+      "location": "Estádio Municipal de Braga",
+      "channels": [
+        {
+          "name": "Sport TV",
+          "type": "Subscription"
+        }
+      ],
+      "id": "event_35_1774036800000",
+      "country": "Portugal"
+    },
+    {
+      "sport": "football",
+      "competition": "Liga Betclic",
+      "eventName": "Moreirense vs. Benfica",
+      "stage": "Jornada 27",
+      "startTimeUtc": "2026-03-21T17:00:00Z",
+      "location": "Parque Desportivo Comendador Joaquim de Almeida Freitas",
+      "channels": [
+        {
+          "name": "TVI",
+          "type": "Free"
+        },
+        {
+          "name": "V+",
+          "type": "Free"
+        }
+      ],
+      "id": "event_36_1774112400000",
+      "country": "Portugal"
+    },
+    {
+      "sport": "football",
+      "competition": "Liga Betclic",
+      "eventName": "Casa Pia vs. Gil Vicente",
+      "stage": "Jornada 27",
+      "startTimeUtc": "2026-03-21T20:00:00Z",
+      "location": "Estádio Dr. Magalhães Pessoa",
+      "channels": [
+        {
+          "name": "Sport TV",
+          "type": "Subscription"
+        }
+      ],
+      "id": "event_37_1774123200000",
+      "country": "Portugal"
+    },
+    {
+      "sport": "football",
+      "competition": "Liga Betclic",
+      "eventName": "Marítimo vs. Estrela da Amadora",
+      "stage": "Jornada 27",
+      "startTimeUtc": "2026-03-22T17:00:00Z",
+      "location": "Estádio dos Barreiros",
+      "channels": [
+        {
+          "name": "Sport TV",
+          "type": "Subscription"
+        }
+      ],
+      "id": "event_38_1774198800000",
+      "country": "Portugal"
+    },
+    {
+      "sport": "football",
+      "competition": "Liga Betclic",
+      "eventName": "Sporting vs. Portimonense",
+      "stage": "Jornada 27",
+      "startTimeUtc": "2026-03-22T20:00:00Z",
+      "location": "Estádio José Alvalade",
+      "channels": [
+        {
+          "name": "Sport TV",
+          "type": "Subscription"
+        }
+      ],
+      "id": "event_39_1774209600000",
+      "country": "Portugal"
+    },
+    {
+      "sport": "football",
+      "competition": "Liga Betclic",
+      "eventName": "Vitória SC vs. Braga",
+      "stage": "Jornada 28",
+      "startTimeUtc": "2026-03-26T17:00:00Z",
+      "location": "Estádio D. Afonso Henriques",
+      "channels": [
+        {
+          "name": "Sport TV",
+          "type": "Subscription"
+        }
+      ],
+      "id": "event_40_1774544400000",
+      "country": "Portugal"
+    },
+    {
+      "sport": "football",
+      "competition": "Liga Betclic",
+      "eventName": "Estrela da Amadora vs. Casa Pia",
+      "stage": "Jornada 28",
+      "startTimeUtc": "2026-03-27T20:00:00Z",
+      "location": "Estádio José Gomes",
+      "channels": [
+        {
+          "name": "Sport TV",
+          "type": "Subscription"
+        }
+      ],
+      "id": "event_41_1774641600000",
+      "country": "Portugal"
+    },
+    {
+      "sport": "football",
+      "competition": "Liga Betclic",
+      "eventName": "Portimonense vs. Moreirense",
+      "stage": "Jornada 28",
+      "startTimeUtc": "2026-03-28T17:00:00Z",
+      "location": "Estádio Municipal de Portimão",
+      "channels": [
+        {
+          "name": "Sport TV",
+          "type": "Subscription"
+        }
+      ],
+      "id": "event_42_1774717200000",
+      "country": "Portugal"
+    },
+    {
+      "sport": "football",
+      "competition": "Liga Betclic",
+      "eventName": "Porto vs. Sporting",
+      "stage": "Jornada 28",
+      "startTimeUtc": "2026-03-28T20:00:00Z",
+      "location": "Estádio do Dragão",
+      "channels": [
+        {
+          "name": "Sport TV",
+          "type": "Subscription"
+        }
+      ],
+      "id": "event_43_1774728000000",
+      "country": "Portugal"
+    },
+    {
+      "sport": "football",
+      "competition": "Liga Betclic",
+      "eventName": "Braga vs. Benfica",
+      "stage": "Jornada 29",
+      "startTimeUtc": "2026-04-02T17:00:00Z",
+      "location": "Estádio Municipal de Braga",
+      "channels": [
+        {
+          "name": "Sport TV",
+          "type": "Subscription"
+        }
+      ],
+      "id": "event_44_1775149200000",
+      "country": "Portugal"
+    },
+    {
+      "sport": "football",
+      "competition": "Liga Betclic",
+      "eventName": "Moreirense vs. Casa Pia",
+      "stage": "Jornada 29",
+      "startTimeUtc": "2026-04-03T20:00:00Z",
+      "location": "Parque Desportivo Comendador Joaquim de Almeida Freitas",
+      "channels": [
+        {
+          "name": "TVI",
+          "type": "Free"
+        },
+        {
+          "name": "V+",
+          "type": "Free"
+        }
+      ],
+      "id": "event_45_1775246400000",
+      "country": "Portugal"
+    },
+    {
+      "sport": "football",
+      "competition": "Liga Betclic",
+      "eventName": "Estrela da Amadora vs. Vitória SC",
+      "stage": "Jornada 29",
+      "startTimeUtc": "2026-04-04T17:00:00Z",
+      "location": "Estádio José Gomes",
+      "channels": [
+        {
+          "name": "Sport TV",
+          "type": "Subscription"
+        }
+      ],
+      "id": "event_46_1775322000000",
+      "country": "Portugal"
+    },
+    {
+      "sport": "football",
+      "competition": "Liga Betclic",
+      "eventName": "Sporting vs. Marítimo",
+      "stage": "Jornada 29",
+      "startTimeUtc": "2026-04-04T20:00:00Z",
+      "location": "Estádio José Alvalade",
+      "channels": [
+        {
+          "name": "Sport TV",
+          "type": "Subscription"
+        }
+      ],
+      "id": "event_47_1775332800000",
+      "country": "Portugal"
+    },
+    {
+      "sport": "football",
+      "competition": "Liga Betclic",
+      "eventName": "Portimonense vs. Porto",
+      "stage": "Jornada 30",
+      "startTimeUtc": "2026-04-09T17:00:00Z",
+      "location": "Estádio Municipal de Portimão",
+      "channels": [
+        {
+          "name": "Sport TV",
+          "type": "Subscription"
+        }
+      ],
+      "id": "event_48_1775754000000",
+      "country": "Portugal"
+    },
+    {
+      "sport": "football",
+      "competition": "Liga Betclic",
+      "eventName": "Benfica vs. Gil Vicente",
+      "stage": "Jornada 30",
+      "startTimeUtc": "2026-04-10T20:00:00Z",
+      "location": "Estádio da Luz",
+      "channels": [
+        {
+          "name": "BTV",
+          "type": "Subscription"
+        }
+      ],
+      "id": "event_49_1775851200000",
+      "country": "Portugal"
+    },
+    {
+      "sport": "football",
+      "competition": "Liga Betclic",
+      "eventName": "Casa Pia vs. Braga",
+      "stage": "Jornada 30",
+      "startTimeUtc": "2026-04-11T17:00:00Z",
+      "location": "Estádio Dr. Magalhães Pessoa",
+      "channels": [
+        {
+          "name": "Sport TV",
+          "type": "Subscription"
+        }
+      ],
+      "id": "event_50_1775926800000",
+      "country": "Portugal"
+    },
+    {
+      "sport": "football",
+      "competition": "Liga Betclic",
+      "eventName": "Vitória SC vs. Moreirense",
+      "stage": "Jornada 30",
+      "startTimeUtc": "2026-04-11T20:00:00Z",
+      "location": "Estádio D. Afonso Henriques",
+      "channels": [
+        {
+          "name": "Sport TV",
+          "type": "Subscription"
+        }
+      ],
+      "id": "event_51_1775937600000",
+      "country": "Portugal"
+    },
+    {
+      "sport": "football",
+      "competition": "Liga Betclic",
+      "eventName": "Marítimo vs. Porto",
+      "stage": "Jornada 31",
+      "startTimeUtc": "2026-04-16T17:00:00Z",
+      "location": "Estádio dos Barreiros",
+      "channels": [
+        {
+          "name": "Sport TV",
+          "type": "Subscription"
+        }
+      ],
+      "id": "event_52_1776358800000",
+      "country": "Portugal"
+    },
+    {
+      "sport": "football",
+      "competition": "Liga Betclic",
+      "eventName": "Estrela da Amadora vs. Sporting",
+      "stage": "Jornada 31",
+      "startTimeUtc": "2026-04-17T20:00:00Z",
+      "location": "Estádio José Gomes",
+      "channels": [
+        {
+          "name": "Sport TV",
+          "type": "Subscription"
+        }
+      ],
+      "id": "event_53_1776456000000",
+      "country": "Portugal"
+    },
+    {
+      "sport": "football",
+      "competition": "Liga Betclic",
+      "eventName": "Portimonense vs. Casa Pia",
+      "stage": "Jornada 31",
+      "startTimeUtc": "2026-04-18T17:00:00Z",
+      "location": "Estádio Municipal de Portimão",
+      "channels": [
+        {
+          "name": "Sport TV",
+          "type": "Subscription"
+        }
+      ],
+      "id": "event_54_1776531600000",
+      "country": "Portugal"
+    },
+    {
+      "sport": "football",
+      "competition": "Liga Betclic",
+      "eventName": "Braga vs. Vitória SC",
+      "stage": "Jornada 31",
+      "startTimeUtc": "2026-04-18T20:00:00Z",
+      "location": "Estádio Municipal de Braga",
+      "channels": [
+        {
+          "name": "Sport TV",
+          "type": "Subscription"
+        }
+      ],
+      "id": "event_55_1776542400000",
+      "country": "Portugal"
+    },
+    {
+      "sport": "football",
+      "competition": "Taça de Portugal",
+      "eventName": "Torreense vs. Fafe",
+      "stage": "Meia-Final 03",
+      "startTimeUtc": "2026-04-22T20:45:00Z",
+      "location": "Estádio Manuel Marques",
+      "channels": [
+        {
+          "name": "RTP1",
+          "type": "Free"
+        },
+        {
+          "name": "Sport TV",
+          "type": "Subscription"
+        }
+      ],
+      "id": "event_56_1776890700000",
+      "country": "Portugal"
+    },
+    {
+      "sport": "football",
+      "competition": "Taça de Portugal",
+      "eventName": "Porto vs. Sporting",
+      "stage": "Meia-Final 04",
+      "startTimeUtc": "2026-04-22T20:45:00Z",
+      "location": "Estádio do Dragão",
+      "channels": [
+        {
+          "name": "RTP1",
+          "type": "Free"
+        },
+        {
+          "name": "Sport TV",
+          "type": "Subscription"
+        }
+      ],
+      "id": "event_57_1776890700000",
+      "country": "Portugal"
+    },
+    {
+      "sport": "football",
+      "competition": "Liga Betclic",
+      "eventName": "Moreirense vs. Marítimo",
+      "stage": "Jornada 32",
+      "startTimeUtc": "2026-04-23T17:00:00Z",
+      "location": "Parque Desportivo Comendador Joaquim de Almeida Freitas",
+      "channels": [
+        {
+          "name": "TVI",
+          "type": "Free"
+        },
+        {
+          "name": "V+",
+          "type": "Free"
+        }
+      ],
+      "id": "event_58_1776963600000",
+      "country": "Portugal"
+    },
+    {
+      "sport": "football",
+      "competition": "Liga Betclic",
+      "eventName": "Porto vs. Casa Pia",
+      "stage": "Jornada 32",
+      "startTimeUtc": "2026-04-24T20:00:00Z",
+      "location": "Estádio do Dragão",
+      "channels": [
+        {
+          "name": "Sport TV",
+          "type": "Subscription"
+        }
+      ],
+      "id": "event_59_1777060800000",
+      "country": "Portugal"
+    },
+    {
+      "sport": "football",
+      "competition": "Liga Betclic",
+      "eventName": "Sporting vs. Benfica",
+      "stage": "Jornada 33",
+      "startTimeUtc": "2026-04-30T17:00:00Z",
+      "location": "Estádio José Alvalade",
+      "channels": [
+        {
+          "name": "Sport TV",
+          "type": "Subscription"
+        }
+      ],
+      "id": "event_60_1777568400000",
+      "country": "Portugal"
+    },
+    {
+      "sport": "football",
+      "competition": "Liga Betclic",
+      "eventName": "Estrela da Amadora vs. Gil Vicente",
+      "stage": "Jornada 33",
+      "startTimeUtc": "2026-05-01T20:00:00Z",
+      "location": "Estádio José Gomes",
+      "channels": [
+        {
+          "name": "Sport TV",
+          "type": "Subscription"
+        }
+      ],
+      "id": "event_61_1777665600000",
+      "country": "Portugal"
+    },
+    {
+      "sport": "football",
+      "competition": "Liga Betclic",
+      "eventName": "Marítimo vs. Braga",
+      "stage": "Jornada 34",
+      "startTimeUtc": "2026-05-07T17:00:00Z",
+      "location": "Estádio dos Barreiros",
+      "channels": [
+        {
+          "name": "Sport TV",
+          "type": "Subscription"
+        }
+      ],
+      "id": "event_62_1778173200000",
+      "country": "Portugal"
+    },
+    {
+      "sport": "football",
+      "competition": "Liga Betclic",
+      "eventName": "Casa Pia vs. Portimonense",
+      "stage": "Jornada 34",
+      "startTimeUtc": "2026-05-08T20:00:00Z",
+      "location": "Estádio Dr. Magalhães Pessoa",
+      "channels": [
+        {
+          "name": "Sport TV",
+          "type": "Subscription"
+        }
+      ],
+      "id": "event_63_1778270400000",
+      "country": "Portugal"
+    },
+    {
+      "sport": "football",
+      "competition": "Taça de Portugal",
+      "eventName": "Por Apurar",
+      "stage": "Final",
+      "startTimeUtc": "2026-05-24T17:15:00Z",
+      "location": "Estádio Nacional",
+      "channels": [
+        {
+          "name": "RTP1",
+          "type": "Free"
+        },
+        {
+          "name": "Sport TV",
+          "type": "Subscription"
+        }
+      ],
+      "id": "event_64_1779642900000",
       "country": "Portugal"
     }
   ]
