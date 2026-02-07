@@ -1,6 +1,6 @@
 {
   "sports": [
-    "Football",
+    "Football"
   ],
   "events": [
     "Liga Betclic",
@@ -39,7 +39,6 @@
     "Novak Djokovic",
     "Tiger Woods",
     "Cristiano Ronaldo",
-    "Lewis Hamilton",
     "Rafael Nadal"
   ]
 }
