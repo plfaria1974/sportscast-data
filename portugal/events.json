@@ -713,5 +713,60 @@
     "stage": "Final",
     "location": "Estádio Nacional",
     "channels": "RTP1 (Free), Sport TV (Subscription)"
+  },
+  {
+    "sport": "Formula 1",
+    "competition": "F1 World Championship 2026",
+    "date": "2026-03-06",
+    "startTime": "01:30",
+    "endTime": "02:30",
+    "eventName": "Practice 1",
+    "stage": "Australian GP",
+    "location": "Albert Park Circuit",
+    "channels": "DAZN (Subscription)"
+  },
+  {
+    "sport": "Formula 1",
+    "competition": "F1 World Championship 2027",
+    "date": "2026-03-06",
+    "startTime": "05:00",
+    "endTime": "06:00",
+    "eventName": "Practice 2",
+    "stage": "Australian GP",
+    "location": "Albert Park Circuit",
+    "channels": "DAZN (Subscription)"
+  },
+  {
+    "sport": "Formula 1",
+    "competition": "F1 World Championship 2028",
+    "date": "2026-03-07",
+    "startTime": "01:30",
+    "endTime": "02:30",
+    "eventName": "Practice 3",
+    "stage": "Australian GP",
+    "location": "Albert Park Circuit",
+    "channels": "DAZN (Subscription)"
+  },
+  {
+    "sport": "Formula 1",
+    "competition": "F1 World Championship 2029",
+    "date": "2026-03-07",
+    "startTime": "05:00",
+    "endTime": "06:00",
+    "eventName": "Qualifying",
+    "stage": "Australian GP",
+    "location": "Albert Park Circuit",
+    "channels": "DAZN (Subscription)"
+  },
+  {
+    "sport": "Formula 1",
+    "competition": "F1 World Championship 2030",
+    "date": "2026-03-08",
+    "startTime": "04:00",
+    "endTime": "06:00",
+    "eventName": "Race",
+    "stage": "Australian GP",
+    "location": "Albert Park Circuit",
+    "channels": "DAZN (Subscription)"
   }
 ]
