@@ -1,10 +1,12 @@
 {
   "sports": [
-    "Football"
+    "Football",
+    "Formula 1",
   ],
   "events": [
     "Liga Betclic",
-    "Taça de Portugal"
+    "Taça de Portugal",
+    "F1 World Championship 2026",
   ],
   "national_teams": [
     "Portugal",
@@ -37,9 +39,6 @@
     "Fafe"
   ],
   "athletes": [
-    "Novak Djokovic",
-    "Tiger Woods",
-    "Cristiano Ronaldo",
-    "Rafael Nadal"
+    "- not available yet -"
   ]
 }
