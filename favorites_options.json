@@ -1,12 +1,15 @@
 {
   "sports": [
     "Football",
-    "Formula 1"
+    "Formula 1",
+    "MotoGP"
   ],
   "events": [
     "Liga Betclic",
     "Taça de Portugal",
-    "F1 World Championship 2026"
+    "Premier League",
+    "F1 World Championship 2026",
+    "2026 MotoGP World Championship"
   ],
   "national_teams": [
     "Portugal",
@@ -36,7 +39,30 @@
     "Sporting",
     "Vitória SC",
     "Torreense",
-    "Fafe"
+    "Fafe",
+    "Arsenal FC",
+    "Arsenal FC",
+    "Aston Villa FC",
+    "Bournemouth",
+    "Brentford FC",
+    "Brighton",
+    "Burnley FC",
+    "Chelsea FC",
+    "Crystal Palace FC",
+    "Everton FC",
+    "Fulham FC",
+    "Leeds United",
+    "Leicester City",
+    "Liverpool FC",
+    "Man. City",
+    "Man. United",
+    "Newcastle",
+    "Nott'm Forest",
+    "Southampton FC",
+    "Sunderland AFC",
+    "Tottenham",
+    "West Ham",
+    "Wolves"
   ],
   "athletes": [
     "- not available yet -"
