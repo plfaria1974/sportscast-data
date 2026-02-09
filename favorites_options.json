@@ -2,14 +2,16 @@
   "sports": [
     "Football",
     "Formula 1",
-    "MotoGP"
+    "MotoGP",
+    "Superbike"
   ],
   "events": [
     "Liga Betclic",
     "Taça de Portugal",
     "Premier League",
     "F1 World Championship 2026",
-    "2026 MotoGP World Championship"
+    "2026 MotoGP World Championship",
+    "2026 Superbike World Championship"
   ],
   "national_teams": [
     "Portugal",
