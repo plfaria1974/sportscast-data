@@ -1,4 +1,15 @@
 [
+    {
+    "sport": "Football",
+    "competition": "Premier League",
+    "date": "2026-02-10",
+    "startTime": "01:00",
+    "endTime": "02:30",
+    "eventName": "Chelsea FC vs. Leeds United",
+    "stage": "Época regular",
+    "location": "Stamford Bridge",
+    "channels": "DAZN (Subscription)"
+  },
   {
     "sport": "Football",
     "competition": "Premier League",
